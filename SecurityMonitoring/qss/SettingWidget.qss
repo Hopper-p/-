@@ -1,0 +1,45 @@
+QLabel{
+    font-size:18px;
+    color: #2A403D;
+    font-weight:600;
+}
+QLineEdit{
+    font-size:16px;
+    width:170px;
+    height:35px;
+    border:none;
+    background-color: #fefcf0;
+    border-radius:6px;
+    padding-left: 10px;
+}
+QPushButton{
+    font-size:18px;
+    font-weight:600;
+    border-radius:10px;
+    color: #2A403D;
+    width:100px;
+    height:50px;
+    background:pink;
+    background-color: #a8c6f8;
+}
+QMessageBox QPushButton{
+    width:60;
+    height:30;
+}
+QComboBox{
+    font-size:16px;
+    width:153px;
+    height:35px;
+    background-color: #fefcf0;
+    border-radius:6px;
+    padding-left: 10px;
+}
+QCheckBox{
+    font-size:16px;
+    width:35px;
+    height:35px;
+    background-color: #fefcf0;
+    border-radius:6px;
+    padding-left: 10px;
+}
+

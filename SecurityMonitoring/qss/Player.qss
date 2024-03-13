@@ -1,0 +1,29 @@
+QLabel{
+    font-size:15px;
+    color: white;
+    font-weight:600;
+}
+QPushButton{
+    font-size:15px;
+    color: white;
+}
+QComboBox{
+    color: white;
+}
+QComboBox QAbstractItemView {
+    border: none;
+    outline:0px;
+    font-size: 12pt;
+}
+QComboBox QAbstractItemView::item {
+    color: white;
+    background-color: transparent;
+    font-size: 15pt;
+    height: 40px;
+}
+QProgressBar{
+    background-color: #000000;
+}
+QMessageBox{
+    background-color: #000000;
+}

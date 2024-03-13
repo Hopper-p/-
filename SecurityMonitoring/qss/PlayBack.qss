@@ -1,0 +1,17 @@
+QListWidget::item {
+    outline: none;
+    height: 70px;
+    border: 1px solid black;
+    text-align: center;
+    color: #191a1d;
+}
+
+QListWidget::item:selected {
+    background-color: #fb7299;
+    color: #191a1d;
+}
+
+QListWidget::item:hover {
+   background-color: #fb7299;
+   color: #191a1d;
+}

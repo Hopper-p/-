@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/BootImg/BackgroundImg.png</file>
+        <file>image/BootImg/leiftImg.png</file>
+        <file>image/BootImg/LoveImg.png</file>
+        <file>image/BootImg/rightImg.png</file>
+        <file>image/icon/SettingsIcon.png</file>
+        <file>qss/SettingWidget.qss</file>
+        <file>image/logoImg.png</file>
+        <file>qss/main.qss</file>
+        <file>qss/Login.qss</file>
+        <file>image/icon/closesEyes.png</file>
+        <file>image/icon/openEyes.png</file>
+        <file>image/icon/通用类_四画面.png</file>
+        <file>image/icon/通用类_一画面.png</file>
+        <file>qss/PlayBack.qss</file>
+        <file>qss/Player.qss</file>
+        <file>image/player/播放器-播放_44.png</file>
+        <file>image/player/播放器-弹幕（关）_44.png</file>
+        <file>image/player/播放器-弹幕（开）_44.png</file>
+        <file>image/player/播放器-声音静音.png</file>
+        <file>image/player/播放器-声音开.png</file>
+        <file>image/player/播放器-下一集_44.png</file>
+        <file>image/player/播放器-暂停_44.png</file>
+        <file>image/player/播放器-主页.png</file>
+        <file>image/player/全屏.png</file>
+        <file>image/player/播放器-上一集.png</file>
+    </qresource>
+</RCC>
